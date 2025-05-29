@@ -1,4 +1,4 @@
-name: docker giphy
+name: docker giphy comment
 on:
   pull_request: 
         types:
